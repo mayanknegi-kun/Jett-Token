@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "chai": "^4.3.4"
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "chai": "^4.3.4",
+    "fs": "^0.0.1-security"
   }
 }
